@@ -1,7 +1,7 @@
 # Rouault Will Fleming Dolan
 This repository contains analysis code and group level data associated with the following paper:
 
-Rouault M.*, Will G.J.*, Fleming S.M. and Dolan R.J. (2022) Self-esteem and the formation of self-performance estimates in emerging adulthood. Translational Psychiatry (* equal contribution)
+Rouault M., Will, G.J, Fleming S.M. and Dolan R.J. (2022) Self-esteem and the formation of self-performance estimates in emerging adulthood. Translational Psychiatry (co-first authors)
 
 
 Script and data files are included in the repository to enable replication of the main analyses reported in the paper.
